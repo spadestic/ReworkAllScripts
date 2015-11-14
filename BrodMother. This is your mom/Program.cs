@@ -30,7 +30,7 @@ namespace This_is_your_Mom
         private static Font txt;
         private static Font noti;
         private static Line lines;
-        private static Key keyCHASING = Key.Space;
+        private static Key keyCHASING = Key.F;
         private static Key keyCOMBO = Key.D;
         private static Key toggleKey = Key.D5;
         private static Key toggleLasthitKey = Key.D7;
